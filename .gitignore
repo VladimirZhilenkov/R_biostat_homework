@@ -1,0 +1,14 @@
+# macOS
+.DS_Store
+._*
+._.DS_Store
+.Spotlight-V100
+.Trashes
+
+# R
+.Rhistory
+.RData
+.Rproj.user
+
+# Мусорные папки
+https:/
